@@ -1,0 +1,24 @@
+.card-menu {
+    width: 505px;
+    /*box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
+    height: 58px;
+    margin-top: -1px;
+}
+.card-container {
+    padding: 0px;    
+}
+td {    
+    padding-right: 5px;       
+}
+
+.info-total-harga{
+    padding: 5px;
+    margin-right: 20px;
+    font-size: 20px;
+    
+}
+
+.info-total-harga-warning{
+    text-decoration: line-through;
+    color: rgb(238, 56, 56);
+}
